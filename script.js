@@ -1,0 +1,1 @@
+const whatsappButton = document.querySelector("#whatsapp-btn"); whatsappButton.addeventListener("click", function(){window.open("https://wa.me/254707662921", "_blank");});

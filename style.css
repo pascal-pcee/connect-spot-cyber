@@ -1,0 +1,6 @@
+.services { padding: 70px 8%; text-align: center; background-color:#25d366;}
+.services h2 { font-size: 32px; margin-bottom: 40px; }
+.service-container { display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; }
+.service-card { background-color: white; width: 260px; min-height: 200px; padding: 30px 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+.service-card h3 { color: #071952; margin-bottom: 20px; line-height: 1.4; }
+.service-card p { font-size: 15px; line-height: 1.8; margin: 0; display: block; }
